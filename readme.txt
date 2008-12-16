@@ -10,7 +10,7 @@ Hides the Update Reminder in the Admin for all non Admin users.
 
 == Description ==
 
-This plugin allows you to hide the update WordPress reminder from all uses that are not of level 10 (ie. Administrators).
+This plugin allows you to hide the update WordPress reminder from all users that are not of level 10 (ie. Administrators).
 
 If you have multiple users then this means those who are not admins don't need to see the message. Useful for CMS based sites, so the client doesn't see the notice.
 
