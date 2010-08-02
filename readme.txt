@@ -3,14 +3,14 @@ Contributors: sarahg111
 Donate link: http://www.stuffbysarah.net/blog/wordpress-plugins/#donate
 Tags: admin, upgrade, cms
 Requires at least: 2.5
-Tested up to: 2.7
-Stable tag: 1.0
+Tested up to: 3.1
+Stable tag: 1.1
 
 Hides the Update Reminder in the Admin for all non Admin users.
 
 == Description ==
 
-This plugin allows you to hide the update WordPress reminder from all users that are not of level 10 (ie. Administrators).
+This plugin allows you to hide the update WordPress reminder from all users that are not assumed Administrators (cannot upgrade plugins).
 
 If you have multiple users then this means those who are not admins don't need to see the message. Useful for CMS based sites, so the client doesn't see the notice.
 
