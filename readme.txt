@@ -4,7 +4,7 @@ Donate link: http://www.stuffbysarah.net/blog/wordpress-plugins/#donate
 Tags: admin, upgrade, cms
 Requires at least: 2.5
 Tested up to: 3.0.1
-Stable tag: 1.1
+Stable tag: 1.2
 
 Hides the Update Reminder in the Admin for all non Admin users.
 
